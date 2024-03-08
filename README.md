@@ -1,4 +1,8 @@
-# Backend in Nest
+# Auth Backend in Nest
+
+## Description
+
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Commands for init
 
@@ -23,9 +27,10 @@ Si quieres que lo haga todo con un colo comando
 $ npm run start:new
 ```
 
-## Description
+## Production sides
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Puedes tener tu Backend de Nest y tu Base de Datos de MongoDB: [Railway](https://railway.app)
+Puedes tener tu base de datos en la nube: [MongoDB Atlas](https://www.mongodb.com/atlas)
 
 ## Test
 
